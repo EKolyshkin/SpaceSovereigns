@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/user/Filen Sync/Documents/College/Classwork/CSS385/AndroidStudioProjects/SpaceSovereigns/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w600dp-v13/values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/user/.gradle/caches/transforms-3/a216aeba8d7390a8829e220260546046/transformed/appcompat-v7-21.0.3/res/values-w600dp/values.xml",
+                    "from": {
+                        "startLines": "3,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,121",
+                        "endColumns": "63,54",
+                        "endOffsets": "115,171"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,119",
+                        "endColumns": "63,54",
+                        "endOffsets": "114,169"
+                    }
+                }
+            ]
+        }
+    ]
+}

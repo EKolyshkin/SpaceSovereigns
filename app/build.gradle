@@ -1,13 +1,12 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 21
-    buildToolsVersion "28.0.3"
+    compileSdk 21
 
     defaultConfig {
-        applicationId "marcosYedro.Android.SpaceInvaders"
-        minSdkVersion 8
-        targetSdkVersion 19
+        applicationId "egor.Android.SpaceSovereigns"
+        minSdkVersion 16
+        targetSdkVersion 21
     }
 
     buildTypes {
@@ -16,6 +15,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
+    namespace 'egor.Android.SpaceSovereigns'
 }
 
 dependencies {

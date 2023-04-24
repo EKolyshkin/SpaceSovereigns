@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/user/Filen Sync/Documents/College/Classwork/CSS385/Program 3/code/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w500dp-v13/values-w500dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/user/.gradle/caches/transforms-3/a216aeba8d7390a8829e220260546046/transformed/appcompat-v7-21.0.3/res/values-w500dp/values.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "54",
+                        "endOffsets": "106"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="egor.Android.SpaceSovereigns"
+4    android:configChanges="orientation|keyboardHidden"
+5    android:screenOrientation="portrait"
+6    android:versionCode="1"
+7    android:versionName="1.0" >
+8
+9    <uses-sdk
+10        android:minSdkVersion="8"
+10-->/home/user/Filen Sync/Documents/College/Classwork/CSS385/Program 3/code/app/src/main/AndroidManifest.xml
+11        android:targetSdkVersion="19" />
+11-->/home/user/Filen Sync/Documents/College/Classwork/CSS385/Program 3/code/app/src/main/AndroidManifest.xml
+12
+13    <application
+13-->/home/user/Filen Sync/Documents/College/Classwork/CSS385/Program 3/code/app/src/main/AndroidManifest.xml:9:5-25:19
+14        android:allowBackup="true"
+14-->/home/user/Filen Sync/Documents/College/Classwork/CSS385/Program 3/code/app/src/main/AndroidManifest.xml:10:9-35
+15        android:debuggable="true"
+16        android:icon="@drawable/icon"
+16-->/home/user/Filen Sync/Documents/College/Classwork/CSS385/Program 3/code/app/src/main/AndroidManifest.xml:11:9-38
+17        android:label="@string/app_name"
+17-->/home/user/Filen Sync/Documents/College/Classwork/CSS385/Program 3/code/app/src/main/AndroidManifest.xml:12:9-41
+18        android:theme="@style/AppTheme" >
+18-->/home/user/Filen Sync/Documents/College/Classwork/CSS385/Program 3/code/app/src/main/AndroidManifest.xml:13:9-40
+19        <activity
+19-->/home/user/Filen Sync/Documents/College/Classwork/CSS385/Program 3/code/app/src/main/AndroidManifest.xml:14:9-24:20
+20            android:name="egor.Android.SpaceSovereigns.MainActivity"
+20-->/home/user/Filen Sync/Documents/College/Classwork/CSS385/Program 3/code/app/src/main/AndroidManifest.xml:15:13-69
+21            android:configChanges="orientation|keyboardHidden"
+21-->/home/user/Filen Sync/Documents/College/Classwork/CSS385/Program 3/code/app/src/main/AndroidManifest.xml:16:13-63
+22            android:label="@string/app_name"
+22-->/home/user/Filen Sync/Documents/College/Classwork/CSS385/Program 3/code/app/src/main/AndroidManifest.xml:17:13-45
+23            android:screenOrientation="portrait" >
+23-->/home/user/Filen Sync/Documents/College/Classwork/CSS385/Program 3/code/app/src/main/AndroidManifest.xml:18:13-49
+24            <intent-filter>
+24-->/home/user/Filen Sync/Documents/College/Classwork/CSS385/Program 3/code/app/src/main/AndroidManifest.xml:19:13-23:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->/home/user/Filen Sync/Documents/College/Classwork/CSS385/Program 3/code/app/src/main/AndroidManifest.xml:20:17-69
+25-->/home/user/Filen Sync/Documents/College/Classwork/CSS385/Program 3/code/app/src/main/AndroidManifest.xml:20:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->/home/user/Filen Sync/Documents/College/Classwork/CSS385/Program 3/code/app/src/main/AndroidManifest.xml:22:17-77
+27-->/home/user/Filen Sync/Documents/College/Classwork/CSS385/Program 3/code/app/src/main/AndroidManifest.xml:22:27-74
+28            </intent-filter>
+29        </activity>
+30    </application>
+31
+32</manifest>

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/user/Filen Sync/Documents/College/Classwork/CSS385/AndroidStudioProjects/SpaceSovereigns/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+            "map": [
+                {
+                    "source": "/home/user/.gradle/caches/transforms-3/a216aeba8d7390a8829e220260546046/transformed/appcompat-v7-21.0.3/res/values-xlarge-land/values.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "63",
+                        "endOffsets": "115"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        }
+    ]
+}
